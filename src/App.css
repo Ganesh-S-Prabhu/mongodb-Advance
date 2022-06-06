@@ -1,0 +1,12 @@
+.App {
+  text-align: center;
+}
+
+#box{
+  border: 1px solid red;
+  margin: 10px auto;
+  width: 50%;
+}
+button {
+  font-size: calc(10px + 2vmin);
+}
